@@ -1,3 +1,4 @@
+ear
 $(document).ready(function(){
 let display='';
 $('.calculator input').not('.equal').click(function(){
@@ -20,6 +21,10 @@ $('.operator[value="AC"]').click(function(){
 
 
 });
+
+
+
+// for test of restore 
 
 
 
